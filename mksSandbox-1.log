@@ -1,0 +1,79 @@
+2024-07-08T13:10:05.957Z In(05) mks Log for VMware Workstation pid=2764 version=17.5.2 build=build-23775571 option=Release
+2024-07-08T13:10:05.957Z In(05) mks The host is x86_64.
+2024-07-08T13:10:05.957Z In(05) mks Host codepage=windows-1252 encoding=windows-1252
+2024-07-08T13:10:05.957Z In(05) mks Host is Windows 10 Enterprise, 64-bit (Build 19042.1949)
+2024-07-08T13:10:05.957Z In(05) mks Host offset from UTC is -05:30.
+2024-07-08T13:10:06.207Z In(05) main  MKSSandbox: MKS_UUID=52 76 07 51 fa c5 ce e2-a3 b7 8a a5 c7 32 2d ee
+2024-07-08T13:10:06.207Z In(05) main  MKSRoleMain: Powering on MKS
+2024-07-08T13:10:06.207Z In(05) main  MKS PowerOn
+2024-07-08T13:10:06.207Z In(05) mks  VTHREAD 6976 "mks"
+2024-07-08T13:10:06.207Z In(05) mks  MKS thread is alive
+2024-07-08T13:10:06.207Z In(05) svga  VTHREAD 3924 "svga"
+2024-07-08T13:10:06.207Z In(05) svga  SVGA thread is alive
+2024-07-08T13:10:06.207Z In(05) mks  MKS: SSE2=1, SSSE3=1, SSE4_1=1
+2024-07-08T13:10:06.238Z In(05) mks  MKS Win32: Registering top level window (0xe04c6) to receive session change notification.
+2024-07-08T13:10:06.257Z In(05) mks  MKS Win32: Successfully enabled high resolution system timer.
+2024-07-08T13:10:06.257Z In(05) mks  Current Display Settings:
+2024-07-08T13:10:06.257Z In(05) mks     Display: 0 size: 1366x768  position: (0, 0) name: \\.\DISPLAY1  
+2024-07-08T13:10:06.261Z In(05) mks  MKS Win32: MIL: 0x2000
+2024-07-08T13:10:06.261Z In(05) mks  MKS-RenderMain: PowerOn allowed DX11Renderer DX12Renderer 
+2024-07-08T13:10:06.261Z In(05) mks  MKS-RenderMain: ISB not enabled by config
+2024-07-08T13:10:06.261Z In(05) mks  MKS-RenderMain: Collecting RenderOps caps from DX12Renderer
+2024-07-08T13:10:06.261Z In(05) mks  MKS-RenderMain: Starting DX12Renderer
+2024-07-08T13:10:06.299Z Wa(03) mks  DX12Module: Available adapters:
+2024-07-08T13:10:06.299Z Wa(03) mks  DX12Module:  Microsoft Basic Render Driver
+2024-07-08T13:10:06.299Z Wa(03) mks  DX12Module:    VendorId = 5140, DeviceId = 140, SubSysId = 0, Revision = 0, AdapterLuid = 034141, Flags = 2c
+2024-07-08T13:10:06.299Z Wa(03) mks  DX12Module:    DedicatedVideoMemory = 0, DedicatedSystemMemory = 0, SharedSystemMemory = 4294699008
+2024-07-08T13:10:06.337Z Wa(03) mks  DX12Module:  Microsoft Basic Render Driver
+2024-07-08T13:10:06.337Z Wa(03) mks  DX12Module:    VendorId = 5140, DeviceId = 140, SubSysId = 0, Revision = 0, AdapterLuid = 034399, Flags = 2e
+2024-07-08T13:10:06.337Z Wa(03) mks  DX12Module:    DedicatedVideoMemory = 0, DedicatedSystemMemory = 0, SharedSystemMemory = 4294699008
+2024-07-08T13:10:06.366Z In(05) mks  MKS-RenderMain: Failed to start the renderer DX12Renderer
+2024-07-08T13:10:06.366Z In(05) mks  MKS-RenderMain: Collecting RenderOps caps from DX11Renderer
+2024-07-08T13:10:06.366Z In(05) mks  MKS-RenderMain: Starting DX11Renderer
+2024-07-08T13:10:06.382Z In(05) mks  DX11Renderer: Enumerating adapter 0
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: `Microsoft Basic Render Driver` vendor=0x1414 device=0x008c revision=0
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: video=0MB system=0MB shared=8191MB
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: LOCAL     budget  7526M usage     0M avail  3891M res     0M
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: NON-LOCAL budget     0M usage     0M avail     0M res     0M
+2024-07-08T13:10:06.383Z Wa(03) mks  DX11Renderer: Device ID is badlisted
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: Enumerating adapter 1
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: `Microsoft Basic Render Driver` vendor=0x1414 device=0x008c revision=0
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: video=0MB system=0MB shared=8191MB
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: LOCAL     budget  7526M usage     0M avail  3891M res     0M
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: NON-LOCAL budget     0M usage     0M avail     0M res     0M
+2024-07-08T13:10:06.383Z Wa(03) mks  DX11Renderer: Device ID is badlisted
+2024-07-08T13:10:06.383Z Wa(03) mks  DX11Renderer: Unable to create a Core 3D device from the enumerated adapters...
+2024-07-08T13:10:06.383Z Wa(03) mks  DX11Renderer: Unable to create a Core 3D device from the enumerated adapters...
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: Releasing DXGI Factory
+2024-07-08T13:10:06.383Z In(05) mks  DX11Renderer: Unloading modules
+2024-07-08T13:10:06.385Z In(05) mks  MKS-RenderMain: Failed to start the renderer DX11Renderer
+2024-07-08T13:10:06.385Z In(05) mks  MKS-RenderMain: Retrying renderer selection without 3D requirements
+2024-07-08T13:10:06.385Z In(05) mks  MKS-RenderMain: Unable to find a renderer
+2024-07-08T13:10:06.385Z In(05) mks  MKS-RenderMain: Failed to PowerOn: Unable to find a suitable graphics renderer.
+2024-07-08T13:10:06.385Z In(05) main  MKSThread: Requesting MKS exit
+2024-07-08T13:10:06.385Z In(05) main  Stopping MKS/SVGA threads
+2024-07-08T13:10:06.385Z In(05) svga  MKSThread: SVGA thread is skipping PowerOn
+2024-07-08T13:10:06.385Z In(05) svga  MKSThread: SVGA thread is skipping the main loop
+2024-07-08T13:10:06.386Z In(05) main  MKS/SVGA threads are stopped
+2024-07-08T13:10:06.386Z In(05) main  Msg_Post: Error
+2024-07-08T13:10:06.386Z In(05) main  [msg.mks.noRendererFound] Unable to find a suitable graphics renderer.
+2024-07-08T13:10:06.386Z In(05) main  ----------------------------------------
+2024-07-08T13:10:06.386Z Wa(03) main  Unable to find a suitable graphics renderer.
+2024-07-08T13:10:06.386Z In(05) main  Msg_Post: Error
+2024-07-08T13:10:06.386Z In(05) main  [msg.mks.powerOnFailed] Failed to initialize mouse-keyboard-screen control.
+2024-07-08T13:10:06.386Z In(05) main  ----------------------------------------
+2024-07-08T13:10:06.386Z Wa(03) main  Failed to initialize mouse-keyboard-screen control.
+2024-07-08T13:10:06.392Z In(05) mks  MKS PowerOff
+2024-07-08T13:10:06.392Z In(05) svga  MKSThread: SVGA thread is skipping PowerOff
+2024-07-08T13:10:06.392Z In(05) svga  SVGA thread is exiting
+2024-07-08T13:10:06.392Z In(05) mks  MKS thread is exiting
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Failed to Power On.
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Powering off.
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Skipping MKS (already powered off)
+2024-07-08T13:10:06.393Z Wa(03) main  MKSRoleMain: Failed to power on the MKSSandbox.
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Exiting...
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Exiting MKS
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Exiting Sig
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Skipping SSL (already exited)
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Exiting Poll
+2024-07-08T13:10:06.393Z In(05) main  MKSRoleMain: Exiting Log
